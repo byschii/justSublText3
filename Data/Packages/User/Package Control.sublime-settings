@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
